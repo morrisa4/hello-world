@@ -1,0 +1,5 @@
+slect *
+from table1
+inner join table2
+	on a = b
+where col1 = 7
